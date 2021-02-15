@@ -1,0 +1,3 @@
+email, subject, message
+jridley@gmail.com,Testing Python,This is a test!!!
+noone@nooen.com,just,me and girlfriend
